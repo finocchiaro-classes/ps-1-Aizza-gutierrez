@@ -1,4 +1,4 @@
-print("\n")
+
 # Ask the user for the first number, store the value in a variable
 firstnum = input("Enter an integer between 10 and 100")
 
